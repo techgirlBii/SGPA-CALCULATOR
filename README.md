@@ -1,5 +1,10 @@
 README
 Bisi's SGPA calculator is a simple and efficient way to calculate the grade point avereages for various values.
+To run the program, simply enter the name of the courses being offered and the scores obtained from these courses.
+Input the Credit Unit and Grade Points of each courses using the "cu" and "g" tag repectively
+Compute the TCU and TCP Values
+Calculate the SGPA using formula TCP/TCU
+Print SGPA.
 
 CONTACT
 If you have any problems,quetions,ideas or suggestions, please contact us on 08134875945 or 08152509465
